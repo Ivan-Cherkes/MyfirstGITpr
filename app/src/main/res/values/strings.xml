@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My first GIT pr</string>
     <string name="hello_my_first_project_git">Hello my first project GIT</string>
+    <string name="hello_suka">hello suka</string>
 </resources>
