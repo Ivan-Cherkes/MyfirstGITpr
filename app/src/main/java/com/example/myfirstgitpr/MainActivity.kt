@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onPause() {
+        //check
         super.onPause()
     }
 }
